@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Maclee and...
+- 🌱 I’m currently learning C and C++.
+- - 💬 Ask me about apnea : )
 
 <!--
 **devmaclee/devmaclee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
